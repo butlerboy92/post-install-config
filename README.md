@@ -128,7 +128,7 @@ Double check 'Require registration and login to create ticekts' is unchecked (Th
 Agents have access to Helpdesk with the intention of responding and resolving tickets. Agents may have one to many departments and roles associated with one another.
 <br />
 <br />
-We will be adding two Agents and giving them any name, I will use "Tim" and "Eric", and take a moment to observe through the tabs 'Acess', 'Permissions', 'Teams'<br />
+We will be adding two Agents and giving them any name (I will use "Tim" and "Eric"), and take a moment to observe through the tabs 'Acess', 'Permissions', 'Teams'<br />
 Next to the Username field, in Account; is set password. Click that and make sure the boxes are unticked and then create a password (we will be using these later)  
 <br />
 <br />
@@ -154,4 +154,16 @@ Teams: Assign any team you'd like (You'll only see Level I Support & Level II Su
 
 <p>
 <img src="https://i.imgur.com/a0MYtMn.jpg" height="80%" width="80%" alt="Set Teams"/>
+</p>
+
+<br />
+<br />
+<br />
+
+<strong>Step 6:</strong> Setting up <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users</a>
+<p>
+Users (customers) can create an account and log in to create a ticket or check on their ticket status as well.
+<br />
+<br />
+For this example we will create our users. Use any name (for this example I will use "Karen" and "Ken")
 </p>
