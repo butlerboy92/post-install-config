@@ -174,3 +174,22 @@ For this example we will create our users. Use any name (I will use "Karen" and 
 <p>
 <img src="https://i.imgur.com/1QaKMoq.jpg" height="80%" width="80%" alt="Creating Users">
 </p>
+
+<br />
+<br />
+<br />
+
+<strong>Step 7:</strong> Set up <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA's<a/>
+<p>
+Service Level Agreements (SLA) are purposed with providing a length of time in which the help desk Administrator expects tickets to be closed.
+<br />
+<br />
+For this example we are using SEV-A (Critical Business Impact), SEV-B(Moderate Business Impact), SEV-C(Minimal Business Impact)
+<br />
+<br />
+(Admin Panel) Manage ⇒ SLA
+</p>
+  
+<p>
+<img src="https://i.imgur.com/yrz6jPb.jpg" height="80%" width="80%" alt="Creating SLA">
+</p>
