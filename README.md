@@ -165,5 +165,12 @@ Teams: Assign any team you'd like (You'll only see Level I Support & Level II Su
 Users (customers) can create an account and log in to create a ticket or check on their ticket status as well.
 <br />
 <br />
-For this example we will create our users. Use any name (for this example I will use "Karen" and "Ken")
+For this example we will create our users. Use any name (I will use "Karen" and "Ken")
+<br />
+<br />
+(Agent Panel) User ⇒ User Directory
+</p>
+
+<p>
+<img src="https://i.imgur.com/1QaKMoq.jpg" height="80%" width="80%" alt="Creating Users">
 </p>
