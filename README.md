@@ -29,30 +29,85 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<strong>Step 1:</strong> Setting up Roles
+<strong>Step 1:</strong> Setting up <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Roles are permissions granted to Agents for each department they have access to. Each Role has it's own permissions that can be granted/denied for Agents
+  who have that Role in association with deparments they have access to.
+<br />
+<br />
+To start off we will create a role named "Supreme Admin" 
+<br />
+<br />
+In the permissions tab just check mark everything, but take a moment to observe the multiple permissions roles can be assigned.
+<br />
+<br />
+(Admin Panel) Agents ⇒ Roles
 </p>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bViS5hZ.jpg" height="80%" width="80%" alt="Setting Roles"/>
 </p>
 
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<br />
 <br />
 
+<strong>Step 2:</strong> Setting up <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Departments</a>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Tickets are routed through Departments and there are many settings that can be set for each Department (Check documentation).
 <br />
+<br />
+After creating a Role, right next to it is the Departments tab which we will be utilizing for this step.
+<br />
+<br />
+Create a new Department named whatever you'd like, but for this example I will use "Systems Admin", leave everything else as default settings.
+<br />
+<br />
+Take a minute to observe all the fields in each section of adding a new department
+<br />
+<br />
+(Admin Panel) Agents ⇒ Departments
+</p>
+<p>
+<img src="https://i.imgur.com/Kkxhu6V.jpg" height="80%" width="80%" alt="Added Department"/>
+</p>
+<p>
+<img src="https://i.imgur.com/THPbO7c.jpg" height="80%" width="80%" alt="Added Department"/>
+</p>
+
+<br />
+<br />
+<br />
+
+<strong>Step 3:</strong> Setting up <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams</a>
+<p>
+Teams allow the use of pulling Agents from different departments to organize them to handle spcific issues via Help Topic or Ticket Filter.
+<br />
+<br />
+Add a new Team and name it whatever you'd like, for this example I will add "Level II Support" since level I is created by default.
+<br />
+<br />
+(Admin Panel) Agents ⇒ Teams ⇒ Add New Team
+</p>
+
+<p>
+<img src="https://i.imgur.com/NFMEMec.jpg" height="80%" width="80%" alt="Adding Team"/>
+</p>
+
+<br />
+<br />
+<br />
+
+<strong>Step 4:</strong> Allowing any user to create a ticket 
+<p>
+Here we are going to allow any user to create a Ticket. Generally registration can be required for Users to create tickets. This is done to prevent random tickets
+  or limit accessibility to the help desk on the user's end.
+<br />
+<br />
+(Admin Panel) Settings ⇒ Users
+</p>
+
+<p>
+<img src="" height="80%" width="80%" alt="Authentication Settings"/>
+</p>
