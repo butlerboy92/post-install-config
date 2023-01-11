@@ -46,6 +46,10 @@ In the permissions tab just check mark everything, but take a moment to observe 
 </p>
 
 <p>
+<img src="https://i.imgur.com/dI9jwGF.jpg" height="80%" width="80%" alt="Permissions"/>
+</p>
+
+<p>
 <img src="https://i.imgur.com/bViS5hZ.jpg" height="80%" width="80%" alt="Setting Roles"/>
 </p>
 
@@ -105,9 +109,49 @@ Here we are going to allow any user to create a Ticket. Generally registration c
   or limit accessibility to the help desk on the user's end.
 <br />
 <br />
+Double check 'Require registration and login to create ticekts' is unchecked (This should already be done by default)
+<br />
+<br />
 (Admin Panel) Settings ⇒ Users
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt="Authentication Settings"/>
+<img src="https://i.imgur.com/zesopGu.jpg" height="80%" width="80%" alt="Authentication Settings"/>
+</p>
+
+<br />
+<br />
+<br />
+
+<strong>Step 5:</strong> Setting up <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents</a>
+<p>
+Agents have access to Helpdesk with the intention of responding and resolving tickets. Agents may have one to many departments and roles associated with one another.
+<br />
+<br />
+We will be adding two Agents and giving them any name, I will use "Tim" and "Eric", and take a moment to observe through the tabs 'Acess', 'Permissions', 'Teams'<br />
+Next to the Username field, in Account; is set password. Click that and make sure the boxes are unticked and then create a password (we will be using these later)  
+<br />
+<br />
+Access: Give them a department and role and any extended access<br />
+Permissions: Check any permissions you would like<br />
+Teams: Assign any team you'd like (You'll only see Level I Support & Level II Support or whatever you named the team in Step 3)
+<br />
+<br />
+(Admin Panel) Agents ⇒ Agents
+</p>
+
+<p>
+<img src="https://i.imgur.com/aQf7i7u.jpg" height="80%" width="80%" alt="Set Password"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/Nq2p3gJ.jpg" height="80%" width="80%" alt="Set Access"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/58BMCrE.jpg" height="80%" width="80%" alt="Set Permissions"/>
+</p>
+
+<p>
+<img src="https://i.imgur.com/a0MYtMn.jpg" height="80%" width="80%" alt="Set Teams"/>
 </p>
