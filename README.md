@@ -229,3 +229,6 @@ These help with end-ser's help desk experience to ensure tickets get sent to the
 You have now set up osTicket Help Desk post configurations! Now we can see how it all operates with Lifecycle Examples
 </p>
   
+<p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
