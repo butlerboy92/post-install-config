@@ -193,3 +193,12 @@ For this example we are using SEV-A (Critical Business Impact), SEV-B(Moderate B
 <p>
 <img src="https://i.imgur.com/yrz6jPb.jpg" height="80%" width="80%" alt="Creating SLA">
 </p>
+
+<p>
+<img src="https://i.imgur.com/VUhurfa.jpg" height="80%" width="80%" alt="SLA done">
+</p>
+
+<br />
+<br />
+<br />
+
