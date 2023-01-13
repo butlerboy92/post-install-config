@@ -202,3 +202,20 @@ For this example we are using SEV-A (Critical Business Impact), SEV-B(Moderate B
 <br />
 <br />
 
+<strong>Step 8:</strong> Setting up <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a>
+<p>
+Help Topics will determine which Department the ticket is routed to and will then determine which Agents have access to the Ticket<br />
+These help with end-ser's help desk experience to ensure tickets get sent to the proper Agents for a quicker response
+<br />
+<br />
+<br />
+(Admin Panel) Manage ⇒ Help Topics
+</p>
+  
+<p>
+<img src="https://i.imgur.com/AwPmxuz.jpg" height="80%" width="80%" alt="SLA done">
+</p>
+  
+<p>
+<img src="https://i.imgur.com/LUfKrRl.jpg" height="80%" width="80%" alt="SLA done">
+</p>
